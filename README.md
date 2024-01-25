@@ -6,7 +6,7 @@ Swinburne Online is a digital education portal that delivers online university a
 (RTO 3059), one of Australia’s leading educational institutions with over 30,000 students. The website of Swinburne Online handles tens of thousands of visits for
 general enquires. There is a traditional Frequently Asked Questions (FAQ) website on Swinburne Online, which is a collection of commonly asked questions
 and answers. Users usually need to browse through many questions before they can find the answer they are looking for, whilst questions and answers are
-organized by topic. This may cause a certain impact on user experience and satisfaction, and ultimately affected users’ interests. In this project, we would like
+organized by topic. This may cause a certain impact on user experience and satisfaction, and ultimately affected users’ interests. In this project, I would like
 to provide an intelligent workflow for Swinburne Online FAQ website to communicate clearly and effectively, and to provide friendly and professional customer service.
 
 
